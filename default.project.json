@@ -1,0 +1,15 @@
+{
+  "name": "therapy",
+  "tree": {
+    "$path": "./src",
+    "images": {
+      "$path": "./images.json"
+    },
+    "packages": {
+      "$path": "./roblox_packages"
+    },
+    "pesde": {
+      "$path": "./pesde.toml"
+    }
+  }
+}

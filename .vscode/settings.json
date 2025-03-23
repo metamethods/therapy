@@ -1,0 +1,4 @@
+{
+  "luau-lsp.completion.imports.suggestRequires": true,
+  "luau-lsp.completion.imports.requireStyle": "alwaysRelative",
+}
